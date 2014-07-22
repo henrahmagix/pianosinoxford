@@ -20,10 +20,8 @@ module.exports = function (grunt) {
         },
         compass: {
             options: {
-                sassDir: 'sass',
-                cssDir: 'stylesheets',
-                imagesDir: 'images',
-                relativeAssets: true
+                basePath: '_sass',
+                config: '_sass/config.rb'
             },
             compile: {},
             force: {

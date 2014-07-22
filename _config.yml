@@ -1,6 +1,5 @@
 markdown: redcarpet
 exclude:
-    - sass
     - node_modules
     - Gruntfile.js
     - package.json
