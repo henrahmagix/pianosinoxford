@@ -9,9 +9,21 @@ module.exports = function (grunt) {
     }
 
     grunt.initConfig({
+        paths: {
+            sass: '_sass',
+            build: '_site'
+        },
         watch: {
+            sass: {
+                files: ['<%= paths.sass %>/**/*'],
+                tasks: ['build']
+            },
+            content: {
+                files: ['**/*.md'],
+                tasks: ['build']
+            },
             livereload: {
-                files: ['_site/**/*'],
+                files: ['<%= paths.build %>/**/*'],
                 tasks: [],
                 options: {
                     livereload: '<%= livereloadPort %>'
@@ -20,8 +32,8 @@ module.exports = function (grunt) {
         },
         compass: {
             options: {
-                basePath: '_sass',
-                config: '_sass/config.rb'
+                basePath: '<%= paths.sass %>',
+                config: '<%= paths.sass %>/config.rb'
             },
             compile: {},
             force: {
@@ -41,10 +53,11 @@ module.exports = function (grunt) {
                 hostname: grunt.option('connect-hostname') || '0.0.0.0',
                 livereload: '<%= livereloadPort %>'
             },
-            site: {
+            build: {
                 options: {
-                    base: '_site',
-                    keepalive: true
+                    base: '<%= paths.build %>',
+                    keepalive: true,
+                    open: true
                 }
             }
         },
@@ -52,8 +65,8 @@ module.exports = function (grunt) {
             init: {
                 command: 'bundle install'
             },
-            jekyll: {
-                command: 'bundle exec jekyll build --watch'
+            build: {
+                command: 'bundle exec jekyll build'
             }
         },
         concurrent: {
@@ -61,10 +74,8 @@ module.exports = function (grunt) {
                 logConcurrentOutput: true
             },
             dev: [
-                'shell:jekyll',
-                'compass:watch',
-                'watch',
-                'connect:site'
+                'connect:build',
+                'watch'
             ]
         }
     });
@@ -73,9 +84,17 @@ module.exports = function (grunt) {
 
     grunt.registerTask('default', [
         'shell:init',
-        'compass:compile'
+        'build'
     ]);
 
-    grunt.registerTask('dev', 'concurrent:dev');
+    grunt.registerTask('build', [
+        'compass:compile',
+        'shell:build'
+    ]);
+
+    grunt.registerTask('dev', [
+        'build',
+        'concurrent:dev'
+    ]);
 
 };
