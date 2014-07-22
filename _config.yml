@@ -1,4 +1,3 @@
-baseurl: /pianosinoxford
 markdown: redcarpet
 exclude:
     - node_modules
