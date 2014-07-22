@@ -53,7 +53,7 @@ module.exports = function (grunt) {
                 command: 'bundle install'
             },
             jekyll: {
-                command: 'bundle exec jekyll serve --watch'
+                command: 'bundle exec jekyll build --watch'
             }
         },
         concurrent: {
@@ -64,7 +64,7 @@ module.exports = function (grunt) {
                 'shell:jekyll',
                 'compass:watch',
                 'watch',
-                // 'connect:site'
+                'connect:site'
             ]
         }
     });
