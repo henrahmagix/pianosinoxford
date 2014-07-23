@@ -2,13 +2,11 @@
 layout: index
 ---
 
-## [Far From The Madding Crowd](http://www.maddingcrowd.co.uk/)
-
-### Piano
+## Far From The Madding Crowd [site](http://www.maddingcrowd.co.uk/)
 
 In the door, make a u-turn to your right.
 
-#### Condition
+### Condition
 
 Out of tune: one semitone down (A on this is Bb).
 
