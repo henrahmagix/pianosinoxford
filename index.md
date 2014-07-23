@@ -4,11 +4,13 @@ layout: index
 
 ## Far From The Madding Crowd – [site](http://www.maddingcrowd.co.uk/)
 
-In the door, make a u-turn to your right.
+Upright, short. In the door, make a u-turn to your right.
+
+Thom Yorke has played this piano. Source: bartender at Chequers saw him play it in ~2009.
 
 ### Condition
 
-Out of tune: one semitone down (A on this is Bb).
+Not great. Out of tune: one semitone down (A on this is Bb).
 
 Some duff notes:
 
@@ -28,7 +30,20 @@ OX1 2BY
 
 `51.754466, -1.259960`
 
+## The Jam Factory – [site](http://www.thejamfactoryoxford.com/)
+
+Upright, tall. Through the main entrance, in the area to the right.
+
+### Condition
+
+Very good. Well tuned and even action.
+
+Soft pedal is in the middle. It has a locking mechanism but that only softens the octave above middle C and a few other notes. Hold it down all the way to work across the whole keyboard.
+
+### Location
+
+Frides Wide Square, south east corner.
+
 ## *Currently investigating*
 
-- The Jam Factory
 - The Living Room (in the Castle)
