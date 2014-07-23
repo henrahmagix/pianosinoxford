@@ -8,7 +8,17 @@ layout: index
 
 In the door, make a u-turn to your right.
 
-Some duff notes. More precise information coming soon.
+#### Condition
+
+Out of tune: one semitone down (A on this is Bb).
+
+Some duff notes:
+
+- G1
+- G1#
+- C2#
+- D2
+- E2 to G2 are not dampered
 
 ### Location
 
@@ -19,3 +29,9 @@ Oxford<br>
 OX1 2BY
 
 `51.754466, -1.259960`
+
+## *Currently investigating*
+
+- Chequers
+- The Jam Factory
+- The Living Room (in the Castle)
