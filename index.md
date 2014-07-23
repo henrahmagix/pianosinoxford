@@ -2,7 +2,7 @@
 layout: index
 ---
 
-## Far From The Madding Crowd [site](http://www.maddingcrowd.co.uk/)
+## Far From The Madding Crowd – [site](http://www.maddingcrowd.co.uk/)
 
 In the door, make a u-turn to your right.
 
