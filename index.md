@@ -30,6 +30,5 @@ OX1 2BY
 
 ## *Currently investigating*
 
-- Chequers
 - The Jam Factory
 - The Living Room (in the Castle)
