@@ -2,6 +2,26 @@
 layout: index
 ---
 
+## James Street Tavern ~ [reviews](http://www.tripadvisor.co.uk/ShowUserReviews-g186361-d4494972-r193849394-The_James_Street_Tavern-Oxford_Oxfordshire_England.html)
+
+Upright, tall. Through the front door, make a u-turn to your left.
+
+### Condition
+
+Good. In tune. One ivory chip.
+
+The soft (felt) pedal doesn't work – there are orange tubes inside that are attached to nothing. I think they should be holding the felt. If not, what are they for? Is it alive?
+
+### Location
+
+Off Cowley Road, turn down James Street, on the left.
+
+47-48 James St, Oxford OX4 1EU
+
+`51.747436, -1.237362`
+
+
+
 ## The Jam Factory ~ [site](http://www.thejamfactoryoxford.com/)
 
 Upright, tall. Through the main entrance, in the area to the right.
@@ -10,7 +30,7 @@ Upright, tall. Through the main entrance, in the area to the right.
 
 Very good. Well tuned and even action.
 
-Soft (felt) pedal is in the middle. It has a locking mechanism but that only softens the octave above middle C and a few other notes. Hold it down all the way to work across the whole keyboard.
+Soft (felt/practice) pedal is in the middle. It has a locking mechanism but that only softens the octave above middle C and a few other notes. Hold it down all the way to work across the whole keyboard. Not sure what the left pedal is meant to do but it doesn't work.
 
 ### Location
 
