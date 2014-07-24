@@ -20,6 +20,8 @@ Off Cowley Road, turn down James Street, on the left.
 
 `51.747436, -1.237362`
 
+<iframe class="vine-embed" src="https://vine.co/v/M0WMpYTebmp/embed/postcard" width="320" height="320" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+
 
 
 ## The Jam Factory ~ [site](http://www.thejamfactoryoxford.com/)
