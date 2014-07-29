@@ -78,3 +78,4 @@ OX1 2BY
 
 - The Living Room (in the Castle)
 - Half Moon
+- Magdalen Arms
