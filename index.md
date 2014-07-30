@@ -76,6 +76,10 @@ OX1 2BY
 
 ## *Currently investigating*
 
-- The Living Room (in the Castle)
+- The Living Room (now a Slug & Lettuce, sans piano)
 - Half Moon
 - Magdalen Arms
+- Browns
+- Fir Tree
+- The Randolph
+- Cricketers Arms (maybe shut down)
