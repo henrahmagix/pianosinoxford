@@ -44,36 +44,6 @@ Frides Wide Square, south east corner.
 
 
 
-## Far From The Madding Crowd ~ [site](http://www.maddingcrowd.co.uk/)
-
-Upright, short. In the door, make a u-turn to your right.
-
-Thom Yorke has played this piano. Source: bartender at Chequers saw him play it in ~2009.
-
-### Condition
-
-Not great. Out of tune: one semitone down (A on this is Bb).
-
-Some duff notes:
-
-- G1
-- G1#
-- C2#
-- D2
-- E2 to G2 are not dampered
-
-### Location
-
-Between Gloucester Green and St Giles, past The White Rabbit pub.
-
-10-12 Friars Entry<br>
-Oxford<br>
-OX1 2BY
-
-`51.754466, -1.259960`
-
-
-
 ## *Currently investigating*
 
 - The Living Room (now a Slug & Lettuce, sans piano)
